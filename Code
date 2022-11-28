@@ -1,7 +1,6 @@
 @echo off
 
-echo PC Cleaner ,
-Cleaning system junk files, please wait…
+echo PC Cleaner by th3hash, Cleaning system junk files, please wait…
 REM displays a line of text
 
 del /f /s /q %systemdrive%\*.tmp
